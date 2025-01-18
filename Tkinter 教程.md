@@ -1,9 +1,5 @@
 # Tkinter 教程
 
-## 目录
-
-[TOC]
-
 ## 关于本教程
 
 > [!WARNING]
